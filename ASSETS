@@ -1,0 +1,14 @@
+body {
+  background-image: url('assets/logo.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+<h2>Download Our Free Trading PDFs</h2>
+<ul>
+  <li><a href="assets/smc.pdf" download>📘 Smart Money Concepts (SMC)</a></li>
+  <li><a href="assets/risk.pdf" download>📗 Risk Management</a></li>
+  <li><a href="assets/psychology.pdf" download>📕 Trading Psychology</a></li>
+  <li><a href="assets/why_traders_lose.pdf" download>📙 Why Most Traders Lose</a></li>
+</ul>
