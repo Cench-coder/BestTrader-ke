@@ -1,0 +1,36 @@
+
+body, html {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  height: 100%;
+}
+
+.hero {
+  background: url('assets/logo.png') center center / cover no-repeat;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.5);
+  background-blend-mode: overlay;
+}
+
+.content {
+  color: white;
+  padding: 2rem;
+  background: rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+}
+
+.buttons a {
+  display: block;
+  margin: 10px auto;
+  padding: 10px 20px;
+  background-color: #00b894;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  width: 250px;
+}
